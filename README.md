@@ -34,8 +34,8 @@
 
 1.  **Clone the repository**:
     ```bash
-   git clone https://github.com/SoumyadityaDutta-rgb/RETAINX-Churn-Prediction.git
-   cd RETAINX-Churn-Prediction
+    git clone https://github.com/SoumyadityaDutta-rgb/RETAINX-Churn-Prediction.git
+    cd RETAINX-Churn-Prediction
 
     ```
 
@@ -79,5 +79,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 This project is open-source and available for educational and research purposes.
+
 
 
