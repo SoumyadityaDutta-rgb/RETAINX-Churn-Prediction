@@ -36,6 +36,7 @@
     ```bash
    git clone https://github.com/SoumyadityaDutta-rgb/RETAINX-Churn-Prediction.git
    cd RETAINX-Churn-Prediction
+
     ```
 
 2.  **Install Dependencies**:
@@ -78,4 +79,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 This project is open-source and available for educational and research purposes.
+
 
